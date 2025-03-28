@@ -3,8 +3,8 @@
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/jamescybertest/Algorithms-Practice)
-  - [Analyzing logs using Splunk](https://github.com/jamescybertest/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/Jamescybertest/Algorithms-Practice)
+  - [Analyzing logs using Splunk](https://github.com/Jamescybertest/Algorithms-Practice)
  
 <h2> Industry Certifications </h2>
 - [ComptiA Security +](https://www.youtube.com/watch?v=a83ASGn_V_s)
