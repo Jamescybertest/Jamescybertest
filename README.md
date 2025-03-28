@@ -10,8 +10,7 @@
 
   - [Analyzing logs using Splunk](https://github.com/Jamescybertest/Jamescybertest/blob/d33da3aeecb0e93535e93acafab42460976c9acd/MIDTERM%20EXAM%20PRACTICAL-%20JAMES%20MUNYABUGINGO.docx)
 
-
-https://github.com/Jamescybertest/Jamescybertest/blob/d33da3aeecb0e93535e93acafab42460976c9acd/MIDTERM%20EXAM%20PRACTICAL-%20JAMES%20MUNYABUGINGO.docx
+    
 
   - [Analyzing logs using Splunk](https://github.com/Jamescybertest/Algorithms-Practice)
 
