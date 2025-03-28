@@ -2,9 +2,14 @@
 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
-- <b> NETWORK SCANNING USING NMAP Home LAB (AlgoExpert)</b>
-  - [ Multiple Nmap Scans and their Results Home Lab](https://github.com/Jamescybertest/Jamescybertest/commit/ed80253a78e57661e89bc2e03d7647c7326b2c70)  
+- <b> PROJECT 1: NETWORK SCANNING USING NMAP:
+  
+ TO RUN MULTIPLE NMAP NETWORK SCANS SIMULTANEOUSLY OR SEQUENTIALLY, YOU CAN UTILIZE SEVERAL APPROACHES, BELOW ARE A FEW COMMON WAYS TO RUN MULTIPLE NMAP SCANS:</b>
+
+  - [ Multiple Nmap Scans and their Results](https://github.com/Jamescybertest/Jamescybertest/commit/ed80253a78e57661e89bc2e03d7647c7326b2c70)  
   - [Analyzing logs using Splunk](https://github.com/Jamescybertest/Algorithms-Practice)
+
+- <b> PROJECT 2: ANALYZING LOGS USING SPLUNK:
  
 <h2> Industry Certifications </h2>
 - [ComptiA Security +](https://www.youtube.com/watch?v=a83ASGn_V_s)
