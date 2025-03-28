@@ -7,10 +7,10 @@
  TO RUN MULTIPLE NMAP NETWORK SCANS SIMULTANEOUSLY OR SEQUENTIALLY, YOU CAN UTILIZE SEVERAL APPROACHES, BELOW ARE A FEW COMMON WAYS TO RUN MULTIPLE NMAP SCANS:</b>
 
   - [ Multiple Nmap Scans and their Results](https://github.com/Jamescybertest/Jamescybertest/commit/ed80253a78e57661e89bc2e03d7647c7326b2c70)
-- [LAB #2 NMAP NETWORK SCANNING- James Munyabugingo.docx ](document.pdf)
-- [Link Text](https://github.com/Jamescybertest/Jamescybertest/commit/ed80253a78e57661e89bc2e03d7647c7326b2c70))
+- [MIDTERM EXAM PRACTICAL- JAMES MUNYABUGINGO.docx ](document.pdf)
+- [Link Text](https://github.com/Jamescybertest/Jamescybertest/commit/ed80253a78e57661e89bc2e03d7647c7326b2c70)
 
-
+MIDTERM EXAM PRACTICAL- JAMES MUNYABUGINGO.docx
 
   - [Analyzing logs using Splunk](https://github.com/Jamescybertest/Algorithms-Practice)
 
