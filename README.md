@@ -10,7 +10,8 @@
   - [Analyzing logs using Splunk](https://github.com/Jamescybertest/Algorithms-Practice)
 
 - <b> PROJECT 2: ANALYZING LOGS USING SPLUNK:
- 
+ - [ Multiple Nmap Scans and their Results](https://github.com/Jamescybertest/Jamescybertest/commit/ed80253a78e57661e89bc2e03d7647c7326b2c70)
+   
 <h2> Industry Certifications </h2>
 - [ComptiA Security +](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
