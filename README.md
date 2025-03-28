@@ -8,6 +8,8 @@
 
   - [ Multiple Nmap Scans and their Results](https://github.com/Jamescybertest/Jamescybertest/commit/ed80253a78e57661e89bc2e03d7647c7326b2c70)
 - [LAB #2 NMAP NETWORK SCANNING- James Munyabugingo.docx ](document.pdf)
+- [Link Text](path/to/your-file.pdf)
+
 
 
   - [Analyzing logs using Splunk](https://github.com/Jamescybertest/Algorithms-Practice)
